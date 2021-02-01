@@ -7,5 +7,6 @@ Custom .prettierrc configuration I like to use
 ### Install
 
 ```bash
-yarn add -D prettier prettier-config-custom
+yarn add -D prettier
+npx prettier-config-custom
 ```
